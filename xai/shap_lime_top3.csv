@@ -1,0 +1,4 @@
+SHAP_Top3,LIME_Top3
+N,rainfall <= -0.75
+P,-0.77 < K <= -0.29
+K,-0.91 < P <= 0.04
